@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\Exercício 3\bin\Debug\net8.0\Exercício 3.exe
+C:\Users\Lucas\source\repos\Exercício 3\bin\Debug\net8.0\Exercício 3.deps.json
+C:\Users\Lucas\source\repos\Exercício 3\bin\Debug\net8.0\Exercício 3.runtimeconfig.json
+C:\Users\Lucas\source\repos\Exercício 3\bin\Debug\net8.0\Exercício 3.dll
+C:\Users\Lucas\source\repos\Exercício 3\bin\Debug\net8.0\Exercício 3.pdb
+C:\Users\Lucas\source\repos\Exercício 3\obj\Debug\net8.0\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Exercício 3\obj\Debug\net8.0\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Exercício 3\obj\Debug\net8.0\Exercício 3.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Exercício 3\obj\Debug\net8.0\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercício 3\obj\Debug\net8.0\Exercício 3.dll
+C:\Users\Lucas\source\repos\Exercício 3\obj\Debug\net8.0\refint\Exercício 3.dll
+C:\Users\Lucas\source\repos\Exercício 3\obj\Debug\net8.0\Exercício 3.pdb
+C:\Users\Lucas\source\repos\Exercício 3\obj\Debug\net8.0\Exercício 3.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\Exercício 3\obj\Debug\net8.0\ref\Exercício 3.dll
