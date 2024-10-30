@@ -17,7 +17,7 @@ namespace Exercício_2
         internal void imprimirDados()
         {
             Console.WriteLine("Nome: " + nome);
-            Console.WriteLine("Salário líquido: " + salarioBruto);
+            Console.WriteLine("Salário líquido: R$" + salarioBruto.ToString("F2"));
         }
         
         internal void aumentoSalario()
