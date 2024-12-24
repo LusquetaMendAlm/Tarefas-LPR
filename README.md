@@ -1,5 +1,5 @@
 # Linguagem de Programação
-/ Aula 3 - Introdução à lógica de programação
+Aula 3 - Introdução à lógica de programação
 / Aula 5 - Estruturas de seleção
 / Aula 6 - Estruturas de repetição
 / Aula 7 - Funções
