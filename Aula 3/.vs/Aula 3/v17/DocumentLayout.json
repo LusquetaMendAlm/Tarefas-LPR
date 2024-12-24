@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\Aual 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEF5B94-AA99-4F87-AA33-D7E9847C2780}|Exercicio 4\\Exercicio 4.vcxproj|C:\\Users\\Lucas\\source\\repos\\Aual 3\\Exercicio 4\\Exercicio 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FEF5B94-AA99-4F87-AA33-D7E9847C2780}|Exercicio 4\\Exercicio 4.vcxproj|solutionrelative:Exercicio 4\\Exercicio 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566FCF0A-83DE-4D44-8155-227F562F52F8}|Exercicio 3\\Exercicio 3.vcxproj|C:\\Users\\Lucas\\source\\repos\\Aual 3\\Exercicio 3\\Exercicio 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{566FCF0A-83DE-4D44-8155-227F562F52F8}|Exercicio 3\\Exercicio 3.vcxproj|solutionrelative:Exercicio 3\\Exercicio 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76DB383-AFAE-4714-9F79-1CCF4BA5329E}|Exercicio 2\\Exercicio 2.csproj|c:\\users\\lucas\\source\\repos\\aual 3\\exercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76DB383-AFAE-4714-9F79-1CCF4BA5329E}|Exercicio 2\\Exercicio 2.csproj|solutionrelative:exercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84BCFE05-5BFB-44DD-A482-78DD66A2450A}|Exercicio 1\\Exercicio 1.csproj|c:\\users\\lucas\\source\\repos\\aual 3\\exercicio 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84BCFE05-5BFB-44DD-A482-78DD66A2450A}|Exercicio 1\\Exercicio 1.csproj|solutionrelative:exercicio 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio 4.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Aual 3\\Exercicio 4\\Exercicio 4.cpp",
+              "RelativeDocumentMoniker": "Exercicio 4\\Exercicio 4.cpp",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Aual 3\\Exercicio 4\\Exercicio 4.cpp",
+              "RelativeToolTip": "Exercicio 4\\Exercicio 4.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T17:32:32.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio 3.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Aual 3\\Exercicio 3\\Exercicio 3.cpp",
+              "RelativeDocumentMoniker": "Exercicio 3\\Exercicio 3.cpp",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Aual 3\\Exercicio 3\\Exercicio 3.cpp",
+              "RelativeToolTip": "Exercicio 3\\Exercicio 3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T17:11:42.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Aual 3\\Exercicio 2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Aual 3\\Exercicio 2\\Program.cs",
+              "RelativeToolTip": "Exercicio 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:04:25.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Aual 3\\Exercicio 1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Aual 3\\Exercicio 1\\Program.cs",
+              "RelativeToolTip": "Exercicio 1\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:47:55.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
